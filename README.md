@@ -7,7 +7,8 @@ The purpose of this project is not to produce as optimized and computationally e
 but rather to present the inner workings of them in a transparent and accessible way.
 
 ## Table of Contents
-- [Machine Learning From Scratch](#machine-learning-from-scratch)
+
+- [Machine Learning From Scratch](Machine-learning-from-scratch)
   * [About](#about)
   * [Table of Contents](#table-of-contents)
   * [Installation](#installation)
